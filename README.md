@@ -1,8 +1,7 @@
 # Face-Recognition-Attendance-Management-System
 Attendance Management System based on Face Recognition using Python  and OpenCv  
 
-### Sourcerer
-<img src="https://avatars.githubusercontent.com/u/84435079?v=4" height="50px" width="50px" alt=""/>
+
 
 ### Code Requirements
 - Opencv(`pip install opencv-python`)
@@ -30,21 +29,23 @@ Attendance Management System based on Face Recognition using Python  and OpenCv
 ### Screenshots
 
 ### Basic UI
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(31).png">
+<img src="https://github.com/kusumashreedevaraju26-ux/Automatic_Face_Recognition_Attendence_System/blob/main/Screenshot_1.png">
+
+### When it trains the model
+<img src="https://github.com/kusumashreedevaraju26-ux/Automatic_Face_Recognition_Attendence_System/blob/main/Screenshot%202024-12-14%20200730.png">
 
 ### When it Recognises me
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(33).png">
+<img src="https://github.com/kusumashreedevaraju26-ux/Automatic_Face_Recognition_Attendence_System/blob/main/Screenshot%202024-12-14%20200812.png">
+
+### When it enrolls the image
+<img src="https://github.com/kusumashreedevaraju26-ux/Automatic_Face_Recognition_Attendence_System/blob/main/Screenshot%202024-12-14%20200542.png">
 
 ### While filling automatic attendance
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(38).png">
+<img src="https://github.com/kusumashreedevaraju26-ux/Automatic_Face_Recognition_Attendence_System/blob/main/Screenshot%202024-12-14%20200925.png">
 
 ### Manually attendance filling UI
-<img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(35).png">
+<img src="https://github.com/kusumashreedevaraju26-ux/Automatic_Face_Recognition_Attendence_System/blob/main/Screenshot%202024-12-14%20200842.png">
 
-
-### Video demo
-
-[Youtube](https://youtu.be/onms2KDOTtY)
 
 
 ### Notes
